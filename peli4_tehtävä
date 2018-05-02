@@ -1,3 +1,4 @@
+Lisää ohjelmaan seuraavat:
 1. Ota selvää miten processingilla piirretään suorakulmio
-2. Luo muuttujat palkinKeskiKohtaY ja palkinPituus
+2. Luo muuttujat palkinKeskiKohta, palkinPituus ja palkinLeveys
 3. Piirrä palkki, niin että se piirtyy yllä olevien muuttujien mukaan.
