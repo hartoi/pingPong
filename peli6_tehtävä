@@ -1,0 +1,3 @@
+Lisää seuraavat ominaisuudet:
+1. Jos pallo menee vasemmasta reunasta ulos, niin pallo siirretään uudestaan keskikohtaan.
+2. Pallon alkunopeus ja suunta arvotaan ( random-funktio käyttöön )
