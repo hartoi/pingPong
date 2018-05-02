@@ -1,0 +1,4 @@
+Tee koodiin seuraavat lisäykset:
+1. Lisää toinen suorakulmio ruudun toiseen laitaan
+2. Aseta sille muuttujat edelliseen tapaan
+3. Aseta se liikkumaan myös hiiren ( tai näppäimistön mukaan ). Myöhemmin lisätään toiselle palikalle 'äly', mutta aluksi on helpompaa, kun sitä voidaan testata hiirellä.
