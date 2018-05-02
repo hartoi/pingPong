@@ -1,0 +1,3 @@
+1. Ota selvää miten processingilla piirretään suorakulmio
+2. Luo muuttujat palkinKeskiKohtaY ja palkinPituus
+3. Piirrä palkki, niin että se piirtyy yllä olevien muuttujien mukaan.
